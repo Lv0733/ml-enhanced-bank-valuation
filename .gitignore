@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data files
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# Generated outputs
+Data/
+Models/
+Predictions/
+Tables/
+Figures/
+Validation/
+Reports/
+Logs/
+
+# Local IDE files
+.vscode/
+.idea/
+
+# Python build files
+*.egg-info/
+dist/
+build/
