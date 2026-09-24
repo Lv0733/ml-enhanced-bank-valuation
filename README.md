@@ -1,4 +1,5 @@
 # Machine Learning Enhanced Residual Income Valuation for U.S. Banks
+[![DOI](https://zenodo.org/badge/1383363734.svg)](https://doi.org/10.5281/zenodo.22945955)
 
 A two-stage empirical framework combining macro-informed ROE forecasting,
 machine learning, panel econometrics, and residual income valuation.
