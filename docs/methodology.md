@@ -1,5 +1,7 @@
 # Methodology
 
+![Project Workflow and Methodology](./methodology_flowchart.png)
+
 ## 1. Research Design
 
 This study develops a two-stage empirical framework that combines macroeconomic forecasting, machine learning, panel econometrics, and residual income valuation.
